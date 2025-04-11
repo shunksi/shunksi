@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shank (aka Shunksi) 👩‍💻
 
-<!--
-**shunksi/shunksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 Passionate full-stack developer  
+🌍 Dreaming of coding under cherry blossoms in Japan 🌸  
+🔨 Current focus: Django | React | TypeScript  
+🎯 I'm building my portfolio to showcase my skills and land my dream job!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Skills:
+- **Backend**: Django, Python, REST APIs
+- **Frontend**: React, TypeScript, HTML, CSS, JavaScript
+- **Database**: PostgreSQL, SQLite
+- **Version Control**: Git, GitHub
+- **Dev Tools**: Docker, VIM
