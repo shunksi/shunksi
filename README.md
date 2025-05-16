@@ -12,4 +12,4 @@
 - **Frontend**: React, TypeScript, HTML, CSS, JavaScript
 - **Database**: PostgreSQL, SQLite
 - **Version Control**: Git, GitHub
-- **Dev Tools**: Docker, VIM
+- **Dev Tools**: VIM
