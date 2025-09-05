@@ -1,4 +1,4 @@
-# Hi, I'm Shank (aka Shunksi) 👩‍💻
+# Hi, I'm Shank (aka Shunksi) 
 
 💙 Passionate full-stack developer  
 🌍 Dreaming of coding under cherry blossoms in Japan 🌸  
